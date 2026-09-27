@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "INDUSTRY PC 100",
+    "price": 89900,
+    "description": "Компактный промышленный компьютер для автоматизированных систем.",
+    "code": "IPC-100",
+    "image": "/images/industry-pc-100.png"
+  },
+  {
+    "id": 2,
+    "name": "INDUSTRY PC 200",
+    "price": 129900,
+    "description": "Производительный ПК для промышленной автоматизации и мониторинга.",
+    "code": "IPC-200",
+    "image": "/images/industry-pc-200.png"
+  },
+  {
+    "id": 3,
+    "name": "INDUSTRY PC 300",
+    "price": 179900,
+    "description": "Надёжное решение для сложных производственных задач.",
+    "code": "IPC-300",
+    "image": "/images/industry-pc-300.png"
+  }
+]
